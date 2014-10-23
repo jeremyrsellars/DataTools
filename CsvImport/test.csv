@@ -1,0 +1,3 @@
+bigint,bigintn,int,intn,char8,nchar8n,datetimeoffset7n,datetime,date,uniqueidentifier,bit,bitn,tinyint,tinyintn
+987654321,,654,,"abcdefg","abcdefg","2014-01-01T01:02:03Z","2014-01-01T01:02:03","2014-01-01","2548126E-DB06-48A5-A7CC-CDEA5EF972D3",0,,33,
+987798978,98746532,654,321,,,"2014-01-01T01:02:03Z","2014-01-01T01:02:03","2014-01-01",,0,1,33,132
